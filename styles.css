@@ -1,1 +1,54 @@
 /*  your css code here. If applicable */
+.bbox{
+	display:block:
+/* 	display:flex; */
+/* 	flex-direction:column; */
+}
+.box{
+	display:flex
+}
+.card-body{
+	display:flex; 
+ 	flex-direction:column;
+}
+.con1{
+	background-color:blue;
+	border:1px solid blue;
+	display:flex; 
+/*  	flex-direction:column; */
+}
+.con2{
+/* 	background-color:pink; */
+	
+}
+.card{
+	display:flex; 
+ 	flex-direction:column;
+
+}
+.uul{
+	text-style:none;
+	 list-style-type: none;
+}
+
+.Headings{
+	color:#3b99e0;
+}
+.list{
+	display:flex;
+	width:100%;
+	
+	justify-items:space-between;
+}
+.Summary{
+	
+	border-top :#5ea4f3;
+	background-color :#f7fbff;
+	
+}
+.product{
+		display:flex; 
+/*  	flex-direction:column; */
+/* 	background-color:pink; */
+}
+
