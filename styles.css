@@ -1,25 +1,28 @@
 /*  your css code here. If applicable */
 .bbox{
-	display:block:
-/* 	display:flex; */
-/* 	flex-direction:column; */
+/* 	display:block: */
+	display:flex;
+	flex-direction:column;
 }
 .box{
-	display:flex
+/* 	display:flex */
 }
 .card-body{
-	display:flex; 
- 	flex-direction:column;
+/* 	display:flex;  */
+/*  	flex-direction:column; */
 }
 .con1{
-	background-color:blue;
+
 	border:1px solid blue;
 	display:flex; 
-/*  	flex-direction:column; */
+
 }
 .con2{
 /* 	background-color:pink; */
 	
+}
+#likeness{
+	width:30px;
 }
 .card{
 	display:flex; 
@@ -49,6 +52,5 @@
 .product{
 		display:flex; 
 /*  	flex-direction:column; */
-/* 	background-color:pink; */
 }
 
